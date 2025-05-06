@@ -1,0 +1,33 @@
+{
+  "roles": {
+    "leadvocals": "Hauptgesang",
+    "backvocals": "Chöre",
+    "guitar": "Gitarre",
+    "keyboard": "Tastatur",
+    "bass": "Niedrig",
+    "doublebass": "Bass",
+    "drums": "Batterie"
+  },
+  "listenLink": "Siehe die Diskographie",
+  "treeLink": "Finden Sie uns im Internet",
+  "musicians": "Die Musiker",
+  "works": "Stücke",
+  "medias": "Durchschnitt",
+  "pastMembers": "Frühere Mitglieder",
+  "listenOnline": "Online anhören",
+  "seeMore": "mehr sehen",
+  "publishedOn": "Veröffentlicht am",
+  "author": "Autor",
+  "composer": "Komponist",
+  "learnMore": "Mehr erfahren",
+  "from": "von",
+  "to": "bis",
+  "since": "seit",
+  "close": "Schließen",
+  "lang": {
+    "en": "🇬🇧 Englisch",
+    "fr": "🇫🇷 Französisch",
+    "es": "🇪🇸 Spanische",
+    "de": "🇩🇪 Deutsch"
+  }
+}

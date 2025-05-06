@@ -1,0 +1,33 @@
+{
+  "roles": {
+    "leadvocals": "Lead Singer",
+    "backvocals": "Back Vocals",
+    "guitar": "Guitar",
+    "keyboard": "Keyboard",
+    "bass": "Bass",
+    "doublebass": "Double Bass",
+    "drums": "Drums"
+  },
+  "listenLink": "Check the discography",
+  "treeLink": "Find us online",
+  "musicians": "Musicians",
+  "works": "Pieces",
+  "medias": "Medias",
+  "learnMore": "Click to read more",
+  "pastMembers": "Past members",
+  "listenOnline": "Listen online",
+  "publishedOn": "Released on",
+  "author": "Author",
+  "composer": "Composer",
+  "seeMore": "see more",
+  "from": "from",
+  "to": "to",
+  "since": "since",
+  "close": "Close",
+  "lang": {
+    "en": "🇬🇧 English",
+    "fr": "🇫🇷 French",
+    "es": "🇪🇸 Spanish",
+    "de": "🇩🇪 German"
+  }
+}
