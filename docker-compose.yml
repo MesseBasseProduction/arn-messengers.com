@@ -1,5 +1,5 @@
 services:
-  messe-basse-production:
+  arn-messengers:
     container_name: arn_messengers_node
     build: .
     command: npm run start
