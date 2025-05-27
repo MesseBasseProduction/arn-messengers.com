@@ -164,6 +164,11 @@ class BW {
         document.getElementById('releases').appendChild(container);
       }
     }
+    // Center release if only one
+    if (this._band.releases.length === 1) {
+      document.getElementById('releases').style.gridTemplateColumns = '1fr';
+      document.getElementById('releases').style.maxWidth = '50%';
+    }
     // Iterate through band members
     for (let i = 0; i < this._band.members.length; ++i) {
       const container = document.createElement('DIV');
@@ -171,9 +176,13 @@ class BW {
       const picture = document.createElement('IMG');
       picture.src = `./assets/img/artists/${this._band.members[i].picture}`;
       const label = document.createElement('P');
+      let credits = '';
+      if (this._band.members[i].pictureCredit !== '') {
+        credits = `<span>© ${this._band.members[i].pictureCredit}</span>`;
+      }
       label.innerHTML = `
         ${this._band.members[i].fullName}
-        <span>© ${this._band.members[i].pictureCredit}</span>
+        ${credits}
         <span class="learn-more">${this._nls.learnMore}</span>
       `;
       container.addEventListener('click', this._artistModal.bind(this, this._band.members[i]));
@@ -297,7 +306,7 @@ class BW {
       audio = new Audio(`assets/audio/${release.audio}`);
       handlePlayback(audio);
       // Update pager selected item
-      if (this._band.releases.length < 35) {
+      if (this._band.releases.length < 35 && this._band.releases.length !== 1) {
         document.getElementById('release-pager').children[activeRelease].classList.add('selected');
       }
     };
@@ -347,7 +356,7 @@ class BW {
     } else {
       document.getElementById('release-previous').addEventListener('click', e => {
         e.target.blur();
-        if (this._band.releases.length < 35) {
+        if (this._band.releases.length < 35 && this._band.releases.length !== 1) {
           document.getElementById('release-pager').children[activeRelease].classList.remove('selected');
         }
         activeRelease = (this._band.releases.length + activeRelease - 1) % this._band.releases.length;
@@ -355,14 +364,14 @@ class BW {
       });
       document.getElementById('release-next').addEventListener('click', e => {
         e.target.blur();
-        if (this._band.releases.length < 35) {
+        if (this._band.releases.length < 35 && this._band.releases.length !== 1) {
           document.getElementById('release-pager').children[activeRelease].classList.remove('selected');
         }
         activeRelease = (activeRelease + 1) % this._band.releases.length;
         updateRelease();
       });
 
-      if (this._band.releases.length && this._band.releases.length < 35) {
+      if (this._band.releases.length && this._band.releases.length < 35 && this._band.releases.length !== 1) {
         for (let i = 0; i < this._band.releases.length; ++i) {
           const releasePage = document.createElement('A');
           releasePage.innerHTML = '●';

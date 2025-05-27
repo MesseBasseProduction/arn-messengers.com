@@ -1,521 +1,129 @@
 {
-  "name": "NAC",
+  "name": "A.R.N. Messengers",
   "bio": {
-    "en": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw.",
-    "fr": "NAC est un groupe de Hard Rock/Rock Progressif, fondé en 1994 à Igny, France. La formation du groupe a souvent évoluée, autour de Pierrot et Elliot pour progressivement se consolider à partir de 2015. Ses éclectiques membres mettent leur interprétation au service de leur musique ; brute et sans détour.",
-    "es": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw.",
-    "de": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw."
+    "en": "A.R.N. Messengers is an instrumental jazz fusion trio born from the explosive encounter of three virtuoso musicians: Nicolas Macassian on guitar, Antoine Leiser on bass, and Rémy Boulogne on drums. Together, they weave a sonic universe where the freedom of jazz, the energy of rock, and the modern textures of contemporary music intersect.<br><br>Formed around a shared passion for improvisation and complex rhythms, the trio has developed a strong identity that seamlessly blends each member’s influences. Their original compositions are true explorations—sometimes dreamy, sometimes electrifying, but always authentic and full of life.<br><br>Driven by a clear ambition and a rare musical chemistry, A.R.N. Messengers is determined to make its mark on the contemporary French jazz scene—and beyond. The trio continues its ascent with fervor, ready to push the boundaries of the genre.",
+    "fr": "A.R.N. Messengers est un trio instrumental de jazz fusion né de la rencontre explosive entre trois musiciens virtuoses : Nicolas Macassian à la guitare, Antoine Leiser à la basse et Rémy Boulogne à la batterie. Ensemble, ils tissent un univers sonore où se croisent la liberté du jazz, l’énergie du rock et les textures modernes des musiques actuelles.<br><br>Formé autour d’une passion commune pour l’improvisation et les rythmes complexes, le trio développe une identité forte, qui mêle à merveille les influences de chacun. Leurs  compositions originales sont des explorations : tantôt planantes, tantôt survoltées, mais toujours authentique et vivante.<br><br>Porté par une ambition claire et une complicité musicale rare, A.R.N. Messengers entend bien s’imposer sur la scène jazz contemporaine française et au-delà. Le trio poursuit son ascension avec ferveur, prêt à repousser les limites du genre.",
+    "es": "A.R.N. Messengers es un trío instrumental de jazz fusión nacido del encuentro explosivo entre tres músicos virtuosos: Nicolas Macassian en la guitarra, Antoine Leiser en el bajo y Rémy Boulogne en la batería. Juntos tejen un universo sonoro donde se cruzan la libertad del jazz, la energía del rock y las texturas modernas de la música contemporánea.<br><br>Formado alrededor de una pasión común por la improvisación y los ritmos complejos, el trío ha desarrollado una identidad fuerte que mezcla a la perfección las influencias de cada integrante. Sus composiciones originales son exploraciones: a veces etéreas, a veces electrizantes, pero siempre auténticas y llenas de vida.<br><br>Impulsado por una ambición clara y una complicidad musical poco común, A.R.N. Messengers aspira a imponerse en la escena del jazz contemporáneo francés y más allá. El trío continúa su ascenso con fervor, listo para empujar los límites del género.",
+    "de": "A.R.N. Messengers ist ein instrumentales Jazz-Fusion-Trio, das aus der explosiven Begegnung dreier virtuoser Musiker entstanden ist: Nicolas Macassian an der Gitarre, Antoine Leiser am Bass und Rémy Boulogne am Schlagzeug. Gemeinsam erschaffen sie eine Klangwelt, in der sich die Freiheit des Jazz, die Energie des Rock und die modernen Texturen zeitgenössischer Musik vereinen.<br><br>Gegründet aus einer gemeinsamen Leidenschaft für Improvisation und komplexe Rhythmen, hat das Trio eine starke Identität entwickelt, die die Einflüsse jedes Einzelnen auf wunderbare Weise miteinander verbindet. Ihre Originalkompositionen sind klangliche Erkundungen – mal schwebend, mal elektrisierend, aber stets authentisch und lebendig.<br><br>Getragen von einer klaren Vision und einer seltenen musikalischen Verbundenheit, wollen A.R.N. Messengers sich auf der zeitgenössischen französischen Jazzszene – und darüber hinaus – etablieren. Das Trio setzt seinen Aufstieg mit Leidenschaft fort, bereit, die Grenzen des Genres zu erweitern."
   },
   "bandPicture": "Band.webp",
   "members": [
     {
-      "fullName": "David Béché",
-      "picture": "David.webp",
-      "pictureCredit": "Raphaël Beekmann",
+      "fullName": "Nicolas Macassian",
+      "picture": "Nicolas.webp",
+      "pictureCredit": "",
       "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      }, 
-      "roles": ["leadvocals"],
-      "range": "2015-"
-    }, {
-      "fullName": "Pierre Toïgo",
-      "picture": "Pierre.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        "en": "<p>Nicolas Macassian is a professional guitarist, songwriter, composer, and performer. He began playing music at around the age of 14, learning guitar alongside a 5-string banjo. In the early 2000s, he formed his first band, marking the start of a rich and diverse musical career.<br><br>Influenced by legendary artists such as Pink Floyd, King Crimson, Frank Zappa, Primus, Jimi Hendrix, Led Zeppelin, Tool, Nine Inch Nails, Queens Of The Stone Age, and A Perfect Circle, Nicolas has developed a unique style blending progressive rock, funk, alternative metal, and sonic experimentation.<br><br>Over the years, he has been involved with numerous musical projects, playing in bands like Meristem, Dirty Monkey Affairs, Over The Earth, Ways, A.R.N. Messengers, and Enjoy The Moment. These experiences have honed his skills in composition, arrangement, songwriting, and live performance through various tours in France and abroad.<br><br>A graduate of the ATLA School in Paris, Nicolas now shares his expertise by teaching guitar at a music school while continuing his career as a singer-songwriter.</p>",
+        "fr": "<p>Nicolas Macassian est un guitariste professionnel passionné, auteur, compositeur et interprète. Il commence la musique dès l’âge de 14 ans, en apprenant la guitare parallèlement à une formation au banjo 5 cordes. Dès le début des années 2000, il forme son premier groupe, marquant le début d’une carrière riche et diversifiée.<br><br>Influencé par des artistes légendaires tels que Pink Floyd, King Crimson, Frank Zappa, Primus, Jimi Hendrix, Led Zeppelin, Tool, Nine Inch Nails, Queens Of The Stone Age ou encore A Perfect Circle, Nicolas développe un style unique, mêlant rock progressif, funk, métal alternatif et expérimentations sonores.<br><br>Au fil des années, il a contribué à de nombreux projets musicaux, intégrant des groupes comme Meristem, Dirty Monkey Affairs, Over The Earth, Ways, A.R.N. Messengers et Enjoy The Moment. Ces expériences lui ont permis de perfectionner son savoir-faire en composition, arrangement, écriture de morceaux ainsi qu’en performance scénique, grâce à diverses tournées en France et à l’étranger.<br><br>Diplômé de l’école ATLA de Paris, Nicolas partage aujourd’hui son expertise en donnant des cours de guitare dans une école de musique, tout en poursuivant son parcours d’auteur-compositeur-interprète.</p>",
+        "de": "<p>Nicolas Macassian ist ein professioneller Gitarrist, Songwriter, Komponist und Performer. Er begann im Alter von etwa 14 Jahren mit dem Musizieren und lernte Gitarre parallel zum 5-saitigen Banjo. Anfang der 2000er Jahre gründete er seine erste Band, was den Beginn einer vielfältigen und erfolgreichen Musikkarriere markierte.<br><br>Beeinflusst von legendären Künstlern wie Pink Floyd, King Crimson, Frank Zappa, Primus, Jimi Hendrix, Led Zeppelin, Tool, Nine Inch Nails, Queens Of The Stone Age und A Perfect Circle, hat Nicolas einen einzigartigen Stil entwickelt, der Progressive Rock, Funk, Alternative Metal und klangliche Experimente vereint.<br><br>Im Laufe der Jahre war er an zahlreichen musikalischen Projekten beteiligt und spielte in Bands wie Meristem, Dirty Monkey Affairs, Over The Earth, Ways, A.R.N. Messengers und Enjoy The Moment. Diese Erfahrungen haben seine Fähigkeiten in Komposition, Arrangement, Songwriting und Bühnenperformance durch verschiedene Tourneen in Frankreich und im Ausland geschärft.<br><br>Als Absolvent der ATLA-Schule in Paris gibt Nicolas heute sein Wissen weiter, indem er Gitarrenunterricht an einer Musikschule gibt und gleichzeitig seine Karriere als Singer-Songwriter fortsetzt.</p>",
+        "es": "<p>Nicolas Macassian es un guitarrista profesional, compositor, autor y intérprete. Comenzó a tocar música alrededor de los 14 años, aprendiendo guitarra junto con el banjo de 5 cuerdas. A principios de los años 2000, formó su primera banda, marcando el inicio de una carrera musical rica y diversa.<br><br>Influenciado por artistas legendarios como Pink Floyd, King Crimson, Frank Zappa, Primus, Jimi Hendrix, Led Zeppelin, Tool, Nine Inch Nails, Queens Of The Stone Age y A Perfect Circle, Nicolas ha desarrollado un estilo único que combina rock progresivo, funk, metal alternativo y experimentación sonora.<br><br>A lo largo de los años, ha participado en numerosos proyectos musicales, tocando en bandas como Meristem, Dirty Monkey Affairs, Over The Earth, Ways, A.R.N. Messengers y Enjoy The Moment. Estas experiencias han perfeccionado sus habilidades en composición, arreglos, escritura de canciones y presentaciones en vivo a través de diversas giras en Francia y en el extranjero.<br><br>Graduado de la escuela ATLA de París, Nicolas ahora comparte su experiencia dando clases de guitarra en una escuela de música mientras continúa su carrera como cantante y compositor.</p>"
       },
       "roles": ["guitar"],
-      "range": "1994-"
+      "range": "2024-"
     }, {
-      "fullName": "Lionel Baudet",
-      "picture": "Lionel.webp",
-      "pictureCredit": "Raphaël Beekmann",
+      "fullName": "Antoine Leiser",
+      "picture": "Antoine.webp",
+      "pictureCredit": "",
       "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["guitar"],
-      "range": "1994-"
-    }, {
-      "fullName": "Arthur Beaulieu",
-      "picture": "Arthur.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        "en": "<p>A versatile and passionate musician, Antoine Leiser is a professional bassist trained at some of the most prestigious music institutions in France. He began his studies at the CIM, a school recognized by the FNEIJMA, before continuing at the Conservatory of Versailles, where he earned a DEM in jazz. He then joined the Pôle Supérieur Paris Boulogne-Billancourt (PSPBB), further deepening his musical education at the highest level.<br><br>Active on the jazz and contemporary music scenes, Antoine Leiser regularly performs in a variety of projects with diverse musical styles. He is notably a member of the PEAS big band, the Manouch Project collective, the MJV jam sessions, and the group Fonkyvel, where he explores funk, jazz, and groove sounds.<br><br>Driven by curiosity and a constant search for new sonic textures, he also plays other instruments for personal enjoyment, such as the French horn, bass clarinet, and drums. This musical openness enriches his artistic vision and fuels his collaborations over time.</p>",
+        "fr": "<p>Musicien polyvalent et passionné, Antoine Leiser est un bassiste professionnel formé dans les plus prestigieuses institutions françaises. Il débute son parcours au CIM, école reconnue par la FNEIJMA, avant de poursuivre ses études au Conservatoire de Versailles où il obtient un DEM en jazz. Il intègre ensuite le Pôle Supérieur Paris Boulogne-Billancourt (PSPBB), consolidant ainsi sa formation musicale au plus haut niveau.<br><br>Actif sur la scène jazz et musiques actuelles, Antoine Leiser se produit régulièrement au sein de plusieurs projets aux esthétiques variées. Il est notamment membre du big band PEAS, du collectif Manouch Project, des jams organisées par le MJV, ainsi que du groupe Fonkyvel, où il explore les sonorités funk, jazz et groove.<br><br>Curieux de nature et toujours en quête de nouvelles textures sonores, il pratique également pour son plaisir personnel d'autres instruments tels que le cor, la clarinette basse et la batterie. Cette ouverture musicale enrichit sa vision artistique et nourrit ses collaborations au fil des rencontres.</p>",
+        "de": " <p>Antoine Leiser ist ein vielseitiger und leidenschaftlicher Musiker sowie professioneller Bassist, der an einigen der renommiertesten Musikinstitutionen Frankreichs ausgebildet wurde. Er begann seine Ausbildung am CIM, einer von der FNEIJMA anerkannten Schule, bevor er sein Studium am Konservatorium von Versailles fortsetzte, wo er ein DEM in Jazz erhielt. Anschließend schloss er sich dem Pôle Supérieur Paris Boulogne-Billancourt (PSPBB) an und vertiefte dort seine musikalische Ausbildung auf höchstem Niveau.<br><br>Aktiv auf der Jazz- und aktuellen Musikszene, tritt Antoine Leiser regelmäßig in verschiedenen Projekten mit unterschiedlichen musikalischen Stilrichtungen auf. Er ist Mitglied des PEAS Big Bands, des Manouch Project Kollektivs, der von MJV organisierten Jam-Sessions sowie der Gruppe Fonkyvel, in der er Funk-, Jazz- und Groove-Klänge erforscht.<br><br>Getrieben von Neugier und dem ständigen Streben nach neuen Klangtexturen, spielt er auch aus persönlichem Vergnügen weitere Instrumente wie Horn, Bassklarinette und Schlagzeug. Diese musikalische Offenheit bereichert seine künstlerische Vision und nährt seine Zusammenarbeit im Laufe der Zeit.</p> ",
+        "es": "<p>Músico versátil y apasionado, Antoine Leiser es un bajista profesional formado en algunas de las instituciones musicales más prestigiosas de Francia. Comenzó sus estudios en el CIM, escuela reconocida por la FNEIJMA, y los continuó en el Conservatorio de Versalles, donde obtuvo un DEM en jazz. Posteriormente, ingresó en el Pôle Supérieur Paris Boulogne-Billancourt (PSPBB), perfeccionando así su formación musical al más alto nivel.<br><br>Activo en la escena del jazz y de las músicas actuales, Antoine Leiser actúa regularmente en diversos proyectos con estilos variados. Es miembro de la big band PEAS, del colectivo Manouch Project, de las jam sessions organizadas por el MJV, así como del grupo Fonkyvel, donde explora sonoridades de funk, jazz y groove.<br><br>Impulsado por su curiosidad y en constante búsqueda de nuevas texturas sonoras, también toca otros instrumentos por placer personal, como el corno, el clarinete bajo y la batería. Esta apertura musical enriquece su visión artística y alimenta sus colaboraciones a lo largo del tiempo.</p>"
       },
       "roles": ["bass"],
-      "range": "2017-"
+      "range": "2024-"
     }, {
-      "fullName": "Tom Souty",
-      "picture": "Tom.webp",
-      "pictureCredit": "Arthur Beaulieu",
+      "fullName": "Rémy Boulogne",
+      "picture": "Remy.webp",
+      "pictureCredit": "",
       "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
+        "en": "<p>Rémy Boulogne is a versatile and passionate professional drummer, recognized for his mastery of a wide range of styles—from the subtlety of jazz to the raw energy of progressive rock. Winner of the First Prize in Advanced Studies from the Dante Agostini School in Paris, he also holds the CESMA (Advanced Teaching Certificate in Agostini Methods), a distinction that attests to his high technical and pedagogical level.<br><br>Currently Deputy Director and instructor at the Agostini School in Saint-Quentin-en-Yvelines, Rémy enthusiastically and rigorously passes on the Agostini methods to a new generation of drummers.<br><br>Both on stage and in the studio, he stands out for his precision, creativity, and adaptability. He performs live, records in studios, appears in music videos, and also collaborates on Indian dance shows and private events—showcasing his broad artistic openness.<br><br>Throughout his career, Rémy has played in numerous ensembles across diverse musical genres: Funky Fêtards, Fonkyvel, Elastix Trio, Enjoy The Moment, and A.R.N. Messengers.<br><br>An accomplished musician, Rémy Boulogne embodies a demanding, modern, and passionate approach to drumming—both as a performer and as an educator.</p>",
+        "fr": "<p>Rémy Boulogne est un batteur professionnel polyvalent et passionné, reconnu pour sa maîtrise des styles les plus variés, de la finesse du jazz à l’énergie brute du rock progressif. Lauréat du 1er prix des études supérieures Dante Agostini de Paris, il est également titulaire du CESMA (Certificat d’Enseignement Supérieur des Méthodes Agostini), distinction qui atteste de son haut niveau technique et pédagogique.<br><br>Actuellement directeur adjoint et professeur à l’école Agostini de Saint-Quentin-en-Yvelines, Rémy transmet avec exigence et enthousiasme les méthodes Agostini à une nouvelle génération de batteurs.<br><br>Sur scène comme en studio, il s’impose par sa précision, sa créativité et sa capacité d’adaptation. Il se produit en live, en studio d’enregistrement, dans des clips vidéo, ou encore comme intervenant pour des spectacles de danse indienne ou des soirées privées, témoignant de sa grande ouverture artistique.<br><br>Au fil de sa carrière, Rémy a joué dans de nombreuses formations aux univers musicaux variés : Funky Fêtards, Fonkyvel, Elastix Trio, Enjoy The Moment, A.R.N. Messengers.<br><br>Musicien accompli, Rémy Boulogne incarne une approche exigeante, moderne et passionnée de la batterie, autant en tant qu’interprète qu’en tant que pédagogue.</p>",
+        "de": "<p>Rémy Boulogne ist ein vielseitiger und leidenschaftlicher Profischlagzeuger, bekannt für seine Beherrschung unterschiedlichster Stilrichtungen – von der Feinheit des Jazz bis zur rohen Energie des Progressive Rock. Er ist Träger des ersten Preises für höhere Studien an der Dante Agostini Schule in Paris und besitzt zudem das CESMA (Hochschulzertifikat für Agostini-Methoden), ein Beleg für sein hohes technisches und pädagogisches Niveau.<br><br>Derzeit ist er stellvertretender Direktor und Dozent an der Agostini-Schule in Saint-Quentin-en-Yvelines, wo er mit Begeisterung und Anspruch die Agostini-Methoden an eine neue Generation von Schlagzeugern weitergibt.<br><br>Sowohl auf der Bühne als auch im Studio überzeugt er durch Präzision, Kreativität und Anpassungsfähigkeit. Er tritt live auf, arbeitet im Tonstudio, erscheint in Musikvideos und ist auch bei indischen Tanzshows oder privaten Veranstaltungen als Musiker tätig – ein Zeichen seiner großen künstlerischen Offenheit.<br><br>Im Laufe seiner Karriere hat Rémy in zahlreichen Ensembles mitgewirkt, die verschiedenste Musikrichtungen repräsentieren: Funky Fêtards, Fonkyvel, Elastix Trio, Enjoy The Moment und A.R.N. Messengers.<br><br>Als vielseitiger Musiker verkörpert Rémy Boulogne einen anspruchsvollen, modernen und leidenschaftlichen Zugang zum Schlagzeug – sowohl als Performer als auch als Pädagoge.</p>",
+        "es": "<p>Rémy Boulogne es un baterista profesional versátil y apasionado, reconocido por su dominio de una amplia variedad de estilos, desde la sutileza del jazz hasta la energía cruda del rock progresivo. Ganador del Primer Premio de Estudios Superiores en la escuela Dante Agostini de París, también posee el CESMA (Certificado de Enseñanza Superior en los Métodos Agostini), una distinción que acredita su alto nivel técnico y pedagógico.<br><br>Actualmente es subdirector y profesor en la escuela Agostini de Saint-Quentin-en-Yvelines, donde transmite con entusiasmo y exigencia los métodos Agostini a una nueva generación de bateristas.<br><br>Tanto en el escenario como en el estudio, se destaca por su precisión, creatividad y capacidad de adaptación. Actúa en conciertos en vivo, graba en estudios, aparece en videoclips y colabora en espectáculos de danza india y eventos privados, demostrando una gran apertura artística.<br><br>A lo largo de su carrera, Rémy ha tocado en numerosas formaciones de estilos musicales variados: Funky Fêtards, Fonkyvel, Elastix Trio, Enjoy The Moment y A.R.N. Messengers.<br><br>Músico consumado, Rémy Boulogne encarna un enfoque exigente, moderno y apasionado de la batería, tanto como intérprete como pedagogo.</p>"
+      }, 
       "roles": ["drums"],
-      "range": "2023-"
+      "range": "2024-"
     }
   ],
-  "pastMembers": [
-    {
-      "fullName": "Sylvain Mallet",
-      "picture": "Sylvain.webp",
-      "pictureCredit": "Guillaume Crantz",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["drums"],
-      "range": "2015-2022"
-    },
-    {
-      "fullName": "Christophe Boulogne",
-      "picture": "Sylvain.webp",
-      "pictureCredit": "Guillaume Crantz",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["drums"],
-      "range": "2015-2022"
-    }
-  ],
+  "pastMembers": [],
   "releases": [
     {
-      "title": "Dystopie",
-      "artist": "NAC",
-      "cover": "Dystopie.webp",
-      "audio": "DystopieExtract.mp3",
-      "date": "2021-11-09",
-      "duration": "46:30",
+      "title": "Foot Trip EP",
+      "artist": "A.R.N. Messengers",
+      "cover": "Foot.webp",
+      "audio": "FootExtract.mp3",
+      "date": "2024-04-01",
+      "duration": "35:29",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
       "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/album/44p4oWCfMZKX9HJt64ncoj"
+          "url": ""
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/album/dystopie/1588780184"
+          "url": "https://music.apple.com/album/foot-trip/1738476298"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.fr/albums/B09HRC1LJS"
+          "url": "https://music.amazon.fr/albums/B0CZ9STN7F"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/fr/album/263543602"
+          "url": "https://www.deezer.com/fr/album/566777041"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze"
         }, {
           "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/dystopie"
+          "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
         }
       ],
       "moreLinks": [
         {
           "type": "tidal",
-          "url": "https://listen.tidal.com/album/200014684"            
+          "url": "https://listen.tidal.com/album/354667840"            
         }, {
           "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Dystopie"            
+          "url": ""
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/20399056-NAC-Dystopie"            
+          "url": ""
         }, {
           "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/39049941-c348-4aeb-b86b-a5af7093d3ea"            
+          "url": ""
         }
       ],
       "tracks": [
         {
-          "title": "Crad' Bar Boogie",
-          "duration": "6:48",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché"
+          "title": "Intereave",
+          "duration": "5:12",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
         },
         {
-          "title": "Bad Dreams",
-          "duration": "6:08",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché, Philippe Dromard"
+          "title": "Foot Trip",
+          "duration": "8:33",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
         },
         {
-          "title": "Dystopie",
-          "duration": "6:12",
-          "composer": "Philippe Dromard, Pierre Toïgo",
-          "author": "Arthur Beaulieu"
+          "title": "Free Fall",
+          "duration": "6:57",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
         },
         {
-          "title": "Nature Humaine",
-          "duration": "6:03",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "Arthur Beaulieu, Lionel Baudet"
+          "title": "Off Trail",
+          "duration": "9:00",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
         },
         {
-          "title": "Amor Ciego",
-          "duration": "6:23",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "David Béché"
-        },
-        {
-          "title": "Tramp",
-          "duration": "6:43",
-          "composer": "Arthur Beaulieu, Pierre Toïgo",
-          "author": "David Béché"
-        },
-        {
-          "title": "Résilience (feat. Tom)",
-          "duration": "8:09",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché"
-        }
-      ]
-    },
-    {
-      "title": "Crad' Bar Boogie",
-      "artist": "NAC",
-      "cover": "Crad.webp",
-      "audio": "CradExtract.mp3",
-      "date": "2021-10-31",
-      "duration": "6:08",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "showOnMainPage": true,
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/4zeFpm6v6E2nuCBMSCFL8d"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/crad-bar-boogie/1588777286?i=1588777287"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.fr/albums/B09HRB5D81"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/fr/album/263542232"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc"
-        }, {
-          "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/crad-bar-boogie-single"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/200014704"            
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Crad-bar-boogie-single"            
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/20398864-NAC-Crad-Bar-Boogie"            
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/3921323e-d906-47fe-bc17-e5d359cc4ea3"            
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Crad' Bar Boogie",
-          "duration": "6:48",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché"
-        }
-      ]
-    },
-    {
-      "title": "Tramp",
-      "artist": "NAC",
-      "cover": "Tramp.webp",
-      "audio": "TrampExtract.mp3",
-      "date": "2021-10-15",
-      "duration": "6:43",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "showOnMainPage": true,
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/4DCYfTa2gWMaBvP6qNBEti"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/tramp-single/1588181001"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.fr/albums/B09HJTR29N"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/fr/album/262556472"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=CsxhdwfJVyk"
-        }, {
-          "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/tramp-single-2"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/199407447"            
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Tramp-single"            
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/20398474-NAC-Tramp"            
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/0c82ec60-852a-4c23-bc7b-2a4377f82702"            
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Tramp",
-          "duration": "6:43",
-          "composer": "Arthur Beaulieu, Pierre Toïgo",
-          "author": "David Béché"
-        }
-      ]
-    },
-    {
-      "title": "Nature Humaine Origins",
-      "artist": "NAC",
-      "cover": "Nature.webp",
-      "audio": "NatureExtract.mp3",
-      "date": "2022-03-03",
-      "duration": "8:14",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "showOnMainPage": true,
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/1opR5BwZcZDSMZIsILnBSJ"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/nature-humaine-origins-feat-karine-fernel-single/1616262749"
-        }, {
-          "type": "amazon",
-          "url": ""
-        }, {
-          "type": "deezer",
-          "url": ""
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM"
-        }, {
-          "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/nature-humaine-origins-single"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": ""            
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Nature-humaine-origins"            
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/22272463-NAC-Nature-Humaine-Origins"            
-        }, {
-          "type": "musicbrainz",
-          "url": ""            
-        }
-      ],
-      "tracks": [
-        {
-          "title": "La Nature Humaine (feat. Karine Fernel)",
-          "duration": "8:14",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet"
-        }
-      ]
-    },
-    {
-      "title": "NAC Featuring Tay",
-      "artist": "NAC",
-      "cover": "Tay.webp",
-      "audio": "TayExtract.mp3",
-      "date": "2022-02-27",
-      "duration": "7:53",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "showOnMainPage": true,
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/0qOPXOZkCebos2KEH4zNCQ"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/nac-tay-feat-tay-single/1617782182"
-        }, {
-          "type": "amazon",
-          "url": ""
-        }, {
-          "type": "deezer",
-          "url": ""
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=JPEKwYBWu4U&list=PLp5D05IpZHwKc4upT8elaHcabNvuo4cFl"
-        }, {
-          "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/nac-featuring-tay-single"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": ""            
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/artists/Nac-fra/"            
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/22262149-NAC-NAC-Featuring-Tay"            
-        }, {
-          "type": "musicbrainz",
-          "url": ""            
-        }
-      ],
-      "tracks": [
-        {
-          "title": "NAC Featuring Tay",
-          "duration": "8:14",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "Armand Guyot, Photjanee On-Kham"
-        }
-      ]
-    },
-    {
-      "title": "NAC",
-      "artist": "NAC",
-      "cover": "NAC.webp",
-      "audio": "NACExtract.mp3",
-      "date": "2022-04-04",
-      "duration": "53:03",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "showOnMainPage": true,
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/0DBcFyKpuSgAmXAIraCRk9"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/nac/1617782356"
-        }, {
-          "type": "amazon",
-          "url": ""
-        }, {
-          "type": "deezer",
-          "url": ""
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=aMyY7_0tz0Q&list=PLp5D05IpZHwLrnqhGJD0icnO2esXeVPU2"
-        }, {
-          "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/nac"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": ""            
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Nac"            
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/22707005-NAC-NAC"
-        }, {
-          "type": "musicbrainz",
-          "url": ""            
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Oil Mechanic Life",
-          "duration": "3:59",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "C'Est Beau La Vie",
-          "duration": "5:11",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Badminton Man",
-          "duration": "6:51",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Malibu",
-          "duration": "5:16",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "La Chaise",
-          "duration": "3:39",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Fragment D'Amertume",
-          "duration": "6:04",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Le Jour Des Monstres",
-          "duration": "4:58",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Indigo",
-          "duration": "4:03",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "La Bande D4",
-          "duration": "6:53",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
-        },
-        {
-          "title": "Le Blues du Mille Pattes Jaune Et Bleu",
-          "duration": "6:09",
-          "composer": "Christophe Boulogne, Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet, Pierre Toïgo"
+          "title": "Aerial Shock Wave",
+          "duration": "5:45",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
         }
       ]
     }
@@ -523,17 +131,12 @@
   "medias": [
     {
       "type": "iframe",
-      "title": "NAC – Dystopie Live (Concert Complet)",
-      "link": "https://tube.mycozy.space/videos/embed/5a713c21-3093-457f-be5a-1951ea6c4ab0"
+      "title": "A.R.N. Messengers – Free Fall (Clip)",
+      "link": "https://tube.mycozy.space/videos/embed/jwj8HjD6ov16oiAr84XMen"
     }, {
-      "type": "image",
-      "link": "./assets/img/artists/sample1.webp"
-    }, {
-      "type": "image",
-      "link": "./assets/img/artists/sample2.webp"
-    }, {
-      "type": "image",
-      "link": "./assets/img/artists/sample3.webp"
+      "type": "iframe",
+      "title": "A.R.N. Messengers – Interweave (Clip)",
+      "link": "https://tube.mycozy.space/videos/embed/4dbbxdgjWeShkvgeZ46QnN"
     }
   ],
   "links": [
@@ -576,8 +179,8 @@
     }
   ],
   "styles": {
-    "mainColor": "#D45656",
-    "gradientStart": "#4A4444",
-    "gradientEnd": "#663F3F"
+    "mainColor": "#F3BA43",
+    "gradientStart": "#AF83D8",
+    "gradientEnd": "#7CEEF5"
   }
 }

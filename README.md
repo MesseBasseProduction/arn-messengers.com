@@ -1,3 +1,8 @@
+# arn-messengers.com
+
+The official website for the jazz/jazz fusion band A.R.N. Messengers.
+This website is based on the template [https://github.com/MesseBasseProduction/BandWebsite/](BandWebsite). Here is the README associated to BandWebsite :
+
 # BandWebsite
 
 ![](https://badgen.net/badge/version/1.1.1/blue)
@@ -26,4 +31,4 @@ Once these steps are completed, you're good to put this website on production. N
 Supported links to be displayed :
 Facebook, Instagram, Twitter, YouTube, Spotify, Apple Music, Deezer, Amazon Music, Tidal, SoundCloud, Bandcamp, Discogs, Genius, MusicBrainz, Flickr, Github, LinkedIn
 
-**Messe Basse Production, GPL-v3.0 -- 2022/2024**
+**Messe Basse Production, GPL-v3.0 -- 2022/2025**
