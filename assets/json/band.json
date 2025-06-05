@@ -73,7 +73,7 @@
           "url": "https://www.deezer.com/fr/album/566777041"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze"
+          "url": ""
         }, {
           "type": "bandcamp",
           "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
@@ -88,10 +88,10 @@
           "url": ""
         }, {
           "type": "discogs",
-          "url": ""
+          "url": "https://www.discogs.com/release/34180540-ARN-Messengers-Foot-Trip"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/3234f1f6-a856-46e9-a439-84b73a7867c2"
         }
       ],
       "tracks": [
@@ -141,45 +141,53 @@
   ],
   "links": [
     {
-      "type": "spotify",
-      "name": "Spotify",
-      "url": "https://open.spotify.com/artist/71YUgouAzYQ9NYerniOasC/"
+      "type": "facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/arn.messengers"
+    }, {
+      "type": "youtube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@A.R.N.Messengers"
     }, {
       "type": "apple",
       "name": "Apple Music",        
-      "url": "https://music.apple.com/artist/nac/1588180391"
+      "url": "https://music.apple.com/artist/a-r-n-messengers/1738476299"
     }, {
       "type": "deezer",
       "name": "Deezer",
-      "url": "https://www.deezer.com/artist/161217332"
+      "url": "https://www.deezer.com/artist/260143511"
     }, {
       "type": "amazon",
       "name": "Amazon Music",
-      "url": "https://music.amazon.fr/artists/B0933N2ZTY/nac/"
+      "url": "https://music.amazon.fr/artists/B0CZ9RQCPW"
+    }, {
+      "type": "qobuz",
+      "name": "Qobuz",
+      "url": "https://www.qobuz.com/fr-fr/interpreter/arn-messengers/21934809"
     }, {
       "type": "tidal",
       "name": "Tidal",
-      "url": "https://tidal.com/artist/31364715"
+      "url": "https://tidal.com/artist/46788772"
+    }, {
+      "type": "soundcloud",
+      "name": "Soundcloud",
+      "url": "https://soundcloud.com/arn-messengers"
     }, {
       "type": "bandcamp",
       "name": "Bandcamp",
-      "url": "https://nacband.bandcamp.com/"
+      "url": "https://arnmessengers.bandcamp.com/"
     }, {
       "type": "discogs",
       "name": "Discogs",
-      "url": "https://www.discogs.com/artist/10054414-NAC-7/"
-    }, {
-      "type": "genius",
-      "name": "Genius",
-      "url": "https://genius.com/artists/Nac-fra/"
+      "url": "https://www.discogs.com/artist/16228780-ARN-Messengers"
     }, {
       "type": "musicbrainz",
       "name": "MusicBrainz",
-      "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333"
+      "url": "https://musicbrainz.org/release/3234f1f6-a856-46e9-a439-84b73a7867c2"
     }
   ],
   "styles": {
-    "mainColor": "#F3BA43",
+    "mainColor": "#4550A1",
     "gradientStart": "#AF83D8",
     "gradientEnd": "#7CEEF5"
   }

@@ -132,7 +132,7 @@ class BW {
   _buildIndexPage() {
     if (DEBUG === true) { console.log(`6. Init website with the artist main page`); }
     document.querySelector('#band-name').innerHTML = this._band.name;
-    document.querySelector('#band-picture').src = `./assets/img/artists/${this._band.bandPicture}`;
+    document.querySelector('#band-picture').src = `./assets/img/${this._band.bandPicture}`;
     document.querySelector('#band-desc').innerHTML = this._band.bio[this._lang];
     document.querySelector('#listen-link').innerHTML = `<img src="./assets/img/controls/disc.svg" alt="listen">${this._nls.listenLink}`;
     document.querySelector('#tree-link').innerHTML = `<img src="./assets/img/controls/find.svg" alt="listen">${this._nls.treeLink}`;
