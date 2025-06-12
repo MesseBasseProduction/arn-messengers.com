@@ -61,7 +61,7 @@
       "links": [
         {
           "type": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/128tJ5emWP2mgmzNt0hM7O"
         }, {
           "type": "apple",
           "url": "https://music.apple.com/album/foot-trip/1738476298"
@@ -73,7 +73,7 @@
           "url": "https://www.deezer.com/fr/album/566777041"
         }, {
           "type": "youtube",
-          "url": ""
+          "url": "https://www.youtube.com/watch?v=TMD81OyoKXA&list=PLp5D05IpZHwK8CUmQvhu1oSPAgHcRBuHd"
         }, {
           "type": "bandcamp",
           "url": "https://arnmessengers.bandcamp.com/album/foot-trip-ep"
@@ -148,6 +148,10 @@
       "type": "youtube",
       "name": "YouTube",
       "url": "https://www.youtube.com/@A.R.N.Messengers"
+    }, {
+      "type": "spotify",
+      "name": "Spotify",        
+      "url": "https://open.spotify.com/artist/6zmwgbDRfZ1m2x1dq3iKrK"
     }, {
       "type": "apple",
       "name": "Apple Music",        
