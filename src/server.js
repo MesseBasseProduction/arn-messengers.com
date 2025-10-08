@@ -2,12 +2,15 @@ const express = require('express');
 const path = require('path');
 const compression = require('compression');
 const zlib = require('node:zlib');
+
 // App and preferences
-const version = '1.1.1';
-const port = 8005;
-const app = express();
+const APP_VERSION = '1.2.0';
+const APP_NAME = 'BandWebsite';
+const APP_PORT = 8005;
+
 // Log server start
-console.log(`${(new Date()).toISOString()} | arn-messengers.com v${version} | Starting web server`);
+console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | Starting web server`);
+const app = express();
 
 // Ensure responses are compressed through this midleware
 app.use(compression({
@@ -20,25 +23,30 @@ app.use('/assets', express.static(path.join(__dirname, '../assets'), { // Serve 
 }));
 
 // Page urls
-app.get('/',  (req, res) => {
-console.log(`${(new Date()).toISOString()} | arn-messengers.com v${version} | 200 ${req.originalUrl} page requested, return index.html`);
-res.sendFile(path.join(__dirname, '../index.html'));
+app.get(['/', '/index', '/index.html'],  (req, res) => {
+  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 200 ${req.url} page requested, return index.html`);
+  res.sendFile(path.join(__dirname, '../assets/html/index.html'));
 });
-app.get(['/listen', '/listen.html'],  (req, res) => {
-  console.log(`${(new Date()).toISOString()} | arn-messengers.com v${version} | 200 ${req.originalUrl} page requested, return listen.html`);
-  res.sendFile(path.join(__dirname, '../listen.html'));
+app.get(['/events', '/event.html', '/live', '/concerts', '/evenements'],  (req, res) => {
+  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 200 ${req.url} page requested, return events.html`);
+  res.sendFile(path.join(__dirname, '../assets/html/events.html'));
 });
-app.get(['/tree', '/tree.html'],  (req, res) => {
-  console.log(`${(new Date()).toISOString()} | arn-messengers.com v${version} | 200 ${req.originalUrl} page requested, return tree.html`);
-  res.sendFile(path.join(__dirname, '../tree.html'));
+app.get(['/listen', '/listen.html', '/music', '/musique'],  (req, res) => {
+  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 200 ${req.url} page requested, return listen.html`);
+  res.sendFile(path.join(__dirname, '../assets/html/listen.html'));
 });
+app.get(['/tree', '/tree.html', '/links', '/liens'],  (req, res) => {
+  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 200 ${req.url} page requested, return tree.html`);
+  res.sendFile(path.join(__dirname, '../assets/html/tree.html'));
+});
+
 // Send / for all urls, avoid 404
 app.use((req, res) => {
-  console.log(`${(new Date()).toISOString()} | arn-messengers.com v${version} | 404 ${req.originalUrl} page requested, return index.html`);
-  res.sendFile(path.join(__dirname, '../index.html'));
+  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 404 ${req.url} page requested, return index.html`);
+  res.sendFile(path.join(__dirname, '../assets/html/index.html'));
 });
 
 // Start server console
-app.listen(port, () => {
-  console.log(`${(new Date()).toISOString()} | arn-messengers.com v${version} | Server started and listening on port ${port}`);
+app.listen(APP_PORT, () => {
+  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | Server started and listening on port ${APP_PORT}`);
 });
