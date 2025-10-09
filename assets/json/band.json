@@ -92,11 +92,119 @@
   ],
   "releases": [
     {
+      "title": "A.R.N Messengers débarque au Sunset",
+      "artist": "A.R.N. Messengers",
+      "cover": "Sunset.webp",
+      "audio": "SunsetExtract.mp3",
+      "date": "2025-10-09",
+      "duration": "01:11:45",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": false,
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=Wqga6w2H-vE&list=PLp5D05IpZHwIZ_DPPPyJ5-gXOEq-uFhZN"
+        }, {
+          "type": "bandcamp",
+          "url": "https://arnmessengers.bandcamp.com/album/a-r-n-messengers-d-barque-au-sunset"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/35327044"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/50e88413-dd14-4411-b17d-71f0e16d512a"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Aerial Shock Wave",
+          "duration": "6:42",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Foot Trip",
+          "duration": "8:35",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Rabbit Hole",
+          "duration": "6:14",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Free Fall",
+          "duration": "8:16",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Searching For Mushin",
+          "duration": "5:00",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Interweave",
+          "duration": "8:32",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Honneur À La Guitare",
+          "duration": "4:29",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Which Way Please",
+          "duration": "8:04",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Honneur À La Basse",
+          "duration": "7:06",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        },
+        {
+          "title": "Off Trail",
+          "duration": "8:48",
+          "composer": "Rémy Boulogne, Antoine Leiser, Nicolas Macassian",
+          "author": ""
+        }
+      ]
+    }, {
       "title": "Foot Trip EP",
       "artist": "A.R.N. Messengers",
       "cover": "Foot.webp",
       "audio": "FootExtract.mp3",
-      "date": "2024-04-01",
+      "date": "2025-06-12",
       "duration": "35:29",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
