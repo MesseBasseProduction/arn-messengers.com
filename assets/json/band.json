@@ -49,16 +49,6 @@
   "pastMembers": [],
   "events": [
     {
-      "title": "Bassecour Jump #118 w/ A.R.N. Messengers",
-      "picture": "Evt1.webp",
-      "date": "2026-02-20",
-      "place": "La BasseCour, Nanterre",
-      "url": "https://www.facebook.com/events/1525185725363004",
-      "description": {
-        "fr": "<p>La BasseCour vous accueille pour une soirée dédiée aux nuances du jazz moderne : improvisation, énergie fusion, reprises élégantes et textures contemporaines Le trio A.R.N. Messengers saissisent l'opportunité pour vous dispenser un set de folies.</p>",
-        "en": "<p>La BasseCour invites you to an evening dedicated to the nuances of modern jazz: improvisation, fusion energy, elegant covers, and contemporary textures. The A.R.N. Messengers trio seizes the opportunity to deliver a set of musical revelry.</p>"
-      }    
-    }, {
       "title": "A.R.N. Messengers débarque à La Java",
       "picture": "MBPEVT029.webp",
       "date": "2026-02-28",
@@ -67,6 +57,16 @@
       "description": {
         "fr": "<p>Le trio A.R.N. Messengers investit la scène légendaire de La Java pour une soirée sous le signe du Jazz Fusion. Une rencontre explosive vous y attends, portée par trois musiciens complices à l'énergie communicative.</p>",
         "en": "<p>The trio A.R.N. Messengers takes over the stage of the legendary La Java for an evening of Jazz Fusion. An explosive encounter awaits you, driven by three close-knit musicians with contagious energy.</p>"
+      }    
+    }, {
+      "title": "Bassecour Jump #118 w/ A.R.N. Messengers",
+      "picture": "Evt1.webp",
+      "date": "2026-02-20",
+      "place": "La BasseCour, Nanterre",
+      "url": "https://www.facebook.com/events/1525185725363004",
+      "description": {
+        "fr": "<p>La BasseCour vous accueille pour une soirée dédiée aux nuances du jazz moderne : improvisation, énergie fusion, reprises élégantes et textures contemporaines Le trio A.R.N. Messengers saissisent l'opportunité pour vous dispenser un set de folies.</p>",
+        "en": "<p>La BasseCour invites you to an evening dedicated to the nuances of modern jazz: improvisation, fusion energy, elegant covers, and contemporary textures. The A.R.N. Messengers trio seizes the opportunity to deliver a set of musical revelry.</p>"
       }    
     }, {
       "title": "Éphémère'n'Roll",
