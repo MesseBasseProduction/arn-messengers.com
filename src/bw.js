@@ -288,7 +288,6 @@ class BW {
     now = now.toISOString().split('T')[0];
 
     if (this._band.events.length > 0 && this._hasUpcomingEvents() === true) {
-      document.querySelector('#events-section').innerHTML = this._nls.events;
       // Reverse order to display first the closest event from now
       for (let i = (this._band.events.length - 1); i >= 0; --i) {
         if (this._band.events[i].date >= now) {
