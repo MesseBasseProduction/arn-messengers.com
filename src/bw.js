@@ -282,6 +282,7 @@ class BW {
       window.location = '/';
     }
 
+    let target = null;
     let upcoming = 0;
     let now = new Date();
     now = now.toISOString().split('T')[0];
@@ -314,7 +315,6 @@ class BW {
 
     let past = 0;
     for (let i = 0; i < this._band.events.length; ++i) {
-      let target = null;
       if (this._band.events[i].date < now) {
         ++past;
         target = document.getElementById('past-events');
