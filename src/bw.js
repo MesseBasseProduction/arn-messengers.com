@@ -152,7 +152,7 @@ class BW {
       // Iterate event to only display upcoming ones
       let now = new Date();
       now = now.toISOString().split('T')[0];
-      for (let i = 0; i < this._band.events.length; ++i) {
+      for (let i = (this._band.events.length - 1); i >= 0; --i) {
         if (this._band.events[i].date >= now) {
           const container = document.createElement('DIV');
           const picture = document.createElement('IMG');
@@ -282,35 +282,58 @@ class BW {
       window.location = '/';
     }
 
+    let upcoming = 0;
     let now = new Date();
     now = now.toISOString().split('T')[0];
-    let upcoming = 0;
+
+    if (this._band.events.length > 0 && this._hasUpcomingEvents() === true) {
+      document.querySelector('#events-section').innerHTML = this._nls.events;
+      // Reverse order to display first the closest event from now
+      for (let i = (this._band.events.length - 1); i >= 0; --i) {
+        if (this._band.events[i].date >= now) {
+          ++upcoming;
+          target = document.getElementById('upcoming-events');
+          const container = document.createElement('DIV');
+          const picture = document.createElement('IMG');
+          picture.src = `./assets/img/events/${this._band.events[i].picture}`;
+          const label = document.createElement('P');
+          label.innerHTML = `
+            <br>
+            <h2>${this._band.events[i].title}</h2>
+            <span><i>${this.formatDate(this._band.events[i].date, this._lang)} – ${this._band.events[i].place}</i></span>
+            <br><br>
+            <span style="text-align:justify;text-indent:var(--spacing)">${this.applyLangOnAsset(this._band.events[i].description)}</span>
+          `;
+          container.appendChild(picture);
+          container.appendChild(label);
+          container.addEventListener('click', this._openUrl.bind(this, this._band.events[i].url));
+          target.appendChild(container);
+        }
+      }
+    }
+
     let past = 0;
     for (let i = 0; i < this._band.events.length; ++i) {
       let target = null;
-      if (this._band.events[i].date >= now) {
-        ++upcoming;
-        target = document.getElementById('upcoming-events');
-      } else {
+      if (this._band.events[i].date < now) {
         ++past;
         target = document.getElementById('past-events');
+        const container = document.createElement('DIV');
+        const picture = document.createElement('IMG');
+        picture.src = `./assets/img/events/${this._band.events[i].picture}`;
+        const label = document.createElement('P');
+        label.innerHTML = `
+          <br>
+          <h2>${this._band.events[i].title}</h2>
+          <span><i>${this.formatDate(this._band.events[i].date, this._lang)} – ${this._band.events[i].place}</i></span>
+          <br><br>
+          <span style="text-align:justify;text-indent:var(--spacing)">${this.applyLangOnAsset(this._band.events[i].description)}</span>
+        `;
+        container.appendChild(picture);
+        container.appendChild(label);
+        container.addEventListener('click', this._openUrl.bind(this, this._band.events[i].url));
+        target.appendChild(container);
       }
-
-      const container = document.createElement('DIV');
-      const picture = document.createElement('IMG');
-      picture.src = `./assets/img/events/${this._band.events[i].picture}`;
-      const label = document.createElement('P');
-      label.innerHTML = `
-        <br>
-        <h2>${this._band.events[i].title}</h2>
-        <span><i>${this.formatDate(this._band.events[i].date, this._lang)} – ${this._band.events[i].place}</i></span>
-        <br><br>
-        <span style="text-align:justify;text-indent:var(--spacing)">${this.applyLangOnAsset(this._band.events[i].description)}</span>
-      `;
-      container.appendChild(picture);
-      container.appendChild(label);
-      container.addEventListener('click', this._openUrl.bind(this, this._band.events[i].url));
-      target.appendChild(container);
     }
 
     if (upcoming === 0) {
