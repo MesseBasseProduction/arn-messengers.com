@@ -49,6 +49,56 @@
   "pastMembers": [],
   "events": [
     {
+      "title": "A.R.N. Messengers réinvestit le Fury Bar",
+      "picture": "Evt4.webp",
+      "date": "2026-07-19",
+      "place": "Fury Bar, Rouen",
+      "url": "https://www.facebook.com/events/4602652793391911",
+      "description": {
+        "fr": "<p>Le trio A.R.N. Messengers s'invite à nouveau sur la scène du Fury Bar à Rouen pour une soirée sous le signe du Jazz Fusion. Après une prestation remarquée le 23 février 2026, le trio de musiciens complices, à l'énergie communicative, aura le plaisir de vous envoyer son set. Ils partageront la scène avec la formation neo-soul Sucre.</p>",
+        "en": "<p>The A.R.N. Messengers' trio returns to the Fury Bar in Rouen for an evening of Jazz Fusion. Following their acclaimed performance on February 23, 2026, this trio of musicians, known for their infectious energy, will be delighted to present their set. They will share the stage with the neo-soul band Sucre.</p>"
+      }
+    }, {
+      "title": "A.R.N. Messengers // Wakan & Co à la Péniche Antipode",
+      "picture": "MBPEVT038.webp",
+      "date": "2026-07-12",
+      "place": "Péniche Antipode, Paris",
+      "url": "https://www.facebook.com/events/2115183829337423",
+      "description": {
+        "fr": "<p>Retrouvez A.R.N. Messengers et Wakan & Co pour un voyage sonore unique, à la croisée des univers. Entre l’énergie du Hard Rock et le raffinement du Jazz Fusion, cette après-midi est la promesse de belles émotions musicales.</p>",
+        "en": "<p>Join A.R.N. Messengers and Wakan & Co for a unique sonic journey at the crossroads of musical worlds. Between the energy of Hard Rock and the refinement of Jazz Fusion, this afternoon promises to be a truly memorable musical experience.</p>"
+      }
+    }, {
+      "title": "A.R.N. Messengers débarque au Noktambül",
+      "picture": "MBPEVT037.webp",
+      "date": "2026-07-09",
+      "place": "Noktambül, Rennes",
+      "url": "https://www.facebook.com/events/1830774074993800",
+      "description": {
+        "fr": "<p>Le trio A.R.N. Messengers s'invite sur la scène du Noktambül pour une soirée sous le signe du Jazz Fusion. Une rencontre explosive vous y attends, portée par trois musiciens complices à l'énergie communicative. Il auronts la joie de partager le plateau avec Kiwizz, un septet de jazz, swing et bossa de velour!</p>",
+        "en": "<p>The trio A.R.N. Messengers takes to the stage at Noktambül for an evening of Jazz Fusion. An explosive encounter awaits you, driven by three musicians with infectious energy and a shared musical connection. They will have the pleasure of sharing the stage with Kiwizz, a septet of velvety jazz, swing, and bossa nova!</p>"
+      }
+    }, {
+      "title": "A.R.N. Messengers débarque à L'Apéro Jazz",
+      "picture": "Evt3.webp",
+      "date": "2026-05-30",
+      "place": "L'Apéro Jazz, Le Mesnil Saint-Denis",
+      "url": "https://www.facebook.com/events/26759853570340802",
+      "description": {
+        "fr": "<p>Peuple des Apéro Jazz ! A.R.N Messengers débarque au centre culturel du Mesnil-Saint-Denis pour une soirée de Jazz Fusion pleine d'énerguie et de surprises.</p>",
+        "en": "<p>People of the Apéro Jazz! A.R.N Messengers are landing at the Mesnil-Saint-Denis cultural center for an evening of Jazz Fusion full of energy and surprises.</p>"
+      }
+    }, {
+      "title": "Festival Jazz Sous Les Pommiers",
+      "picture": "Evt2.webp",
+      "date": "2026-05-09",
+      "place": "Centre-Ville, Coutances",
+      "url": "https://www.facebook.com/festivaljslp",
+      "description": {
+        "fr": "<p>Le trio A.R.N. Messengers s'invite au coeur du festival Jazz Sous Les Pommiers, pour un set de 50 minutes sur la Scène \"Avis aux amateurs\", à partir de 23h10. Une belle manière de clotûrer cette journée de festival et pour la formation, une manière de démontrer son énergie et sa bonne humeur communicative.</p>",
+        "en": "<p>The trio A.R.N. Messengers will be performing at the heart of the Jazz Sous Les Pommiers festival, for a 50-minute set on the \"Avis aux amateurs\" stage, starting at 11:10 pm. A great way to close out this day of the festival and for the group, a way to demonstrate their energy and infectious good humor.</p>"
+      }
+    }, {
       "title": "A.R.N. Messengers débarque au Vinyle Vintage Studio",
       "picture": "MBPEVT032.webp",
       "date": "2026-03-28",
@@ -57,7 +107,7 @@
       "description": {
         "fr": "<p>Le trio A.R.N. Messengers s'invite sur la scène du Vinyle Vintage Studio pour une après midi de Jazz Fusion. Une rencontre explosive vous y attends, portée par trois musiciens complices à l'énergie communicative.</p>",
         "en": "<p>The trio A.R.N. Messengers takes over the stage of the Vinyle Vintage Studio for an afternoon of Jazz Fusion. An explosive encounter awaits you, driven by three close-knit musicians with contagious energy.</p>"
-      }    
+      }
     }, {
       "title": "A.R.N. Messengers débarque à La Java",
       "picture": "MBPEVT031.webp",
@@ -67,7 +117,7 @@
       "description": {
         "fr": "<p>Le trio A.R.N. Messengers s'invite sur la scène de L'Usine pour un apéro live du jeudi en mode Jazz Fusion. Une rencontre explosive vous y attends, portée par trois musiciens complices à l'énergie communicative.</p>",
         "en": "<p>The trio A.R.N. Messengers takes over the stage of L'Usine for an evening of Jazz Fusion. An explosive encounter awaits you, driven by three close-knit musicians with contagious energy.</p>"
-      }    
+      }
     }, {
       "title": "L'apéro LIVE du jeudi en mode JAZZ FUSION avec A.R.N Messengers",
       "picture": "MBPEVT030.webp",
@@ -77,7 +127,7 @@
       "description": {
         "fr": "<p>Le trio A.R.N. Messengers investit la scène légendaire de La Java pour une soirée sous le signe du Jazz Fusion. Une rencontre explosive vous y attends, portée par trois musiciens complices à l'énergie communicative.</p>",
         "en": "<p>The trio A.R.N. Messengers takes over the stage of the legendary La Java for an evening of Jazz Fusion. An explosive encounter awaits you, driven by three close-knit musicians with contagious energy.</p>"
-      }    
+      }
     }, {
       "title": "A.R.N. Messengers débarque au Fury Bar",
       "picture": "MBPEVT029.webp",
